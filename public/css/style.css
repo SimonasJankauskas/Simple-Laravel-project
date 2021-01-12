@@ -1,0 +1,33 @@
+.menu_colors {
+    background-color: rgb(89, 117, 11) !important;
+}
+.theme_btn:hover {
+    background: rgb(89, 117, 11) !important;
+    color: #fff;
+}
+.theme_btn {
+    color: #000;
+    border-color: #000;
+}
+.dropdown-item {
+    background:rgb(89, 117, 11) !important;
+    color: #fff !important;
+}
+.dropdown-menu {
+    background:rgb(89, 117, 11) !important;
+}
+.nav-link {
+    color: #fff !important;
+}
+.navbar-brand {
+    color: #fff !important;
+}
+footer {
+    height: 10px;
+    width: 100%;
+    margin-top: 60px;
+    background:rgb(89, 117, 11) !important;
+}
+table, th, td {
+    text-align: center;
+}
